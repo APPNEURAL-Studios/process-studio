@@ -1,0 +1,147 @@
+{
+  "slug": "process-studio",
+  "host": "process",
+  "title": "Process Studio",
+  "tagline": "Diagram, workflow, whiteboard, roadmap",
+  "description": "Diagram flowcharts, workflows, org charts, ER diagrams, UML, BPMN, and architecture maps. Plan roadmaps, Gantt charts, and Kanban boards, map customer journeys and user flows, and manage CRM pipelines, SLAs, and policies.",
+  "editors": [
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Diagram Editor",
+      "desc": "General-purpose diagramming"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Flowchart Editor",
+      "desc": "Process flowchart creation"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Workflow Editor",
+      "desc": "Business workflow design"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Whiteboard Editor",
+      "desc": "Freeform collaborative whiteboard"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Mind Map Editor",
+      "desc": "Hierarchical mind mapping"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Concept Map Editor",
+      "desc": "Relationship-based concept mapping"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Organization Chart Editor",
+      "desc": "Org structure visualization"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "ER Diagram Editor",
+      "desc": "Entity-relationship database diagrams"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "UML Editor",
+      "desc": "Unified Modeling Language diagrams"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Architecture Editor",
+      "desc": "System architecture diagrams"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Network Diagram Editor",
+      "desc": "Network topology visualization"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "BPMN Editor",
+      "desc": "Business Process Model notation"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Decision Tree Editor",
+      "desc": "Decision logic trees"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Customer Journey Editor",
+      "desc": "Customer journey mapping"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "User Flow Editor",
+      "desc": "UX user flow diagrams"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Roadmap Editor",
+      "desc": "Product/project roadmap planning"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Gantt Chart Editor",
+      "desc": "Project timeline scheduling"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Kanban Editor",
+      "desc": "Kanban board task management"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Timeline Editor",
+      "desc": "Chronological timeline views"
+    },
+    {
+      "category": "Diagram, Whiteboard & Planning Editors",
+      "name": "Seating/Floor Plan Editor",
+      "desc": "Physical space layout planning"
+    },
+    {
+      "category": "Business Process Editors",
+      "name": "CRM Pipeline Editor",
+      "desc": "Sales pipeline stage management"
+    },
+    {
+      "category": "Business Process Editors",
+      "name": "Policy Editor",
+      "desc": "Organizational policy documentation"
+    },
+    {
+      "category": "Business Process Editors",
+      "name": "SLA Editor",
+      "desc": "Service-level agreement definition"
+    },
+    {
+      "category": "Business Process Editors",
+      "name": "Campaign Editor",
+      "desc": "Marketing campaign workflow planning"
+    }
+  ],
+  "services": [
+    [
+      "workflow",
+      "core"
+    ],
+    [
+      "automation",
+      "core"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ]
+  ]
+}
